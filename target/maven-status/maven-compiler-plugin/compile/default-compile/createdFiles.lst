@@ -1,0 +1,9 @@
+com\soapws\AppConfig.class
+com\soapws\CustomerUtility.class
+com\soapws\WebAppInitializer.class
+com\soapwebservice\customer\GetCustomerResponse.class
+com\soapwebservice\customer\package-info.class
+com\soapws\CustomerEndpoint.class
+com\soapwebservice\customer\Customer.class
+com\soapwebservice\customer\GetCustomerRequest.class
+com\soapwebservice\customer\ObjectFactory.class
